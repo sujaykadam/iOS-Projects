@@ -1,0 +1,33 @@
+# Xcode build artifacts
+.build/
+build/
+DerivedData/
+
+# Xcode user data
+*.xcuser/
+xcuserdata/
+
+# CocoaPods
+Pods/
+# Carthage
+Carthage/
+
+# Swift Package Manager
+.swiftpm/
+Package.resolved
+Package.pins
+
+# Other
+*.DS_Store
+*.log
+*.ipa
+*.xcconfig
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+*.pbxuser
+*.pbxdisk
+*.swiftpm/
+
+# Optional: Ignore specific Xcode project files
+# *.xcodeproj/
+# *.xcworkspace/
