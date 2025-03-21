@@ -31,3 +31,4 @@ Package.pins
 # Optional: Ignore specific Xcode project files
 # *.xcodeproj/
 # *.xcworkspace/
+**/
